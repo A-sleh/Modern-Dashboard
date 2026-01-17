@@ -32,7 +32,7 @@ This project demonstrates practical application of:
 
 ## 🌐 Live Preview
 
-Visit the live demo: [https://a-sleh.github.io/dashboard/](https://a-sleh.github.io/dashboard/)
+Visit the live demo: [[https://a-sleh.github.io/dashboard/](https://a-sleh.github.io/Modern-Dashboard/)]([https://a-sleh.github.io/dashboard/](https://a-sleh.github.io/Modern-Dashboard/))
 
 ## 🤝 Acknowledgments
 
